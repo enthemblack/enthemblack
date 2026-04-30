@@ -1,91 +1,139 @@
-<h1 align="center">Hi 👋, I'm Nitish Sharma</h1>
-<h3 align="center">⚔️ Ethical Hacker | Full-Stack Developer | Cyber Forensics Enthusiast ⚔️</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Advanced+Ethical+Hacker;Full-Stack+Developer;OSINT+Specialist;Bug+Bounty+Hunter;Target%3A+Black+Hat+Asia+%26+USA" alt="Typing SVG" />
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🔥 **Advanced Ethical Hacker** | **Developer** who codes both exploits and applications
-- 🎯 **Target:** Black Hat Asia & Black Hat USA — *coming soon*
-- 🧠 **Interests:** OSINT · Bug Bounty · Cyber Forensics · Web Security
-- 🛡️ I break things ethically, then fix them better.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 💻 Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🗄️ Databases
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### 🔐 Hacking & Security
-![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=osint&logoColor=white)
-![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-FF6B00?style=for-the-badge&logo=hackerone&logoColor=white)
-![Forensics](https://img.shields.io/badge/Cyber_Forensics-2C3E50?style=for-the-badge&logo=forensics&logoColor=white)
+<div align="center">
+  
+  <!-- STYLISH NAME BOX WITH GLOW EFFECT -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:00ff00,100:ff00ff&text=NITISH%20SHARMA&fontSize=50&fontColor=ffffff&animation=fadeIn&stroke=00ff00&strokeWidth=2" />
+  
+  <!-- SUBTITLE WITH TYPING ANIMATION -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=☠️+Advanced+Ethical+Hacker+☠️;⚡+Full-Stack+Developer+⚡;🕵️+OSINT+%26+Cyber+Forensics+Expert+🕵️;🎯+Target%3A+Black+Hat+Asia+%26+USA+🎯;💀+I+Break+%26+Build+%E2%80%8E+💀" alt="Typing Animation" />
+  
+  <!-- ANIMATED BANNER -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  
+  <!-- MATRIX CODE RAIN EFFECT (ASCII) -->
+  <pre style="background:black; color:#0f0; font-family: 'Courier New', monospace; padding:10px; border-radius:10px;">
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  $ whoami                                                       ║
+  ║  > Nitish Sharma (@enthemblack)                                 ║
+  ║  > Advanced Ethical Hacker | Developer | Cyber Forensics        ║
+  ║  > "The quieter you become, the more you can hear" - Kali Linux ║
+  ╚══════════════════════════════════════════════════════════════════╝
+  </pre>
+  
+</div>
 
 ---
 
-### 🚀 Current Goals
+### 🧨 **GLIMPSE OF MY ARSENAL** 🧨
 
-- [ ] Speak at **Black Hat Asia**
-- [ ] Speak at **Black Hat USA**
-- [ ] Release advanced OSINT tool on GitHub
-- [ ] Contribute to OWASP projects
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NITISH-SHARMA&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NITISH-SHARMA&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITISH-SHARMA&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  
+  <!-- ANIMATED SKILL BADGES -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,firebase,mongodb,sqlite&theme=dark&perline=8" />
+  
+  <br><br>
+  
+  <!-- HACKING TOOLS BADGES -->
+  <img src="https://img.shields.io/badge/🕵️_OSINT-Expert-00ff00?style=for-the-badge&logo=kali&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/🐛_Bug_Bounty-Hunter-ff0000?style=for-the-badge&logo=bugcrowd&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/🔬_Cyber_Forensics-Analyst-ff00ff?style=for-the-badge&logo=forensics&logoColor=white&color=black" />
+  <img src="https://img.shields.io/badge/🔥_Black_Hat-Asia_|_USA-ffff00?style=for-the-badge&logo=hat&logoColor=black&color=000" />
+  
+</div>
 
 ---
 
-### 🐍 Contribution Snake
+### 📊 **LIVE STATS + STREAK**
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enthemblack&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=00ff00&title_color=00ff00&ring_color=ff00ff&custom_title=🔥+HACKER+STATS+🔥" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=enthemblack&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=ff00ff&fire=ff00ff&currStreakLabel=00ff00" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enthemblack&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff" />
+  
+  <!-- 3D CONTRIBUTION GRAPH GIF -->
+  <img width="49%" src="https://raw.githubusercontent.com/enthemblack/enthemblack/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+</div>
+
+---
+
+### 🐍 **SNAKE EATING MY COMMITS** 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITISH-SHARMA/NITISH-SHARMA/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITISH-SHARMA/NITISH-SHARMA/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NITISH-SHARMA/NITISH-SHARMA/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enthemblack/enthemblack/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enthemblack/enthemblack/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/enthemblack/enthemblack/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-### 📫 Connect with Me
+### 🎯 **MY BLACK HAT JOURNEY** 🎯
 
-<p align="left">
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/NITISH-SHARMA" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-</p>
+<div align="center">
+  
+| 🏆 MILESTONE | 📅 STATUS |
+|-------------|-----------|
+| Black Hat Asia (Singapore) | `🚀 TARGET ACQUIRED` |
+| Black Hat USA (Las Vegas) | `🎯 IN RANGE` |
+| OSCP Certification | `⚔️ LOADING...` |
+| Own OSINT Tool Launch | `💀 COMING SOON` |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NITISH-SHARMA&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/NITISH-SHARMA?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+### ✨ **ANIMATED QUOTE ROTATOR**
 
-<p align="center">
-  ⚡ <i>"The quieter you become, the more you are able to hear." — Kali Linux philosophy</i>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Hackers%20don't%20break%20in,%20they%20log%20in.&author=@enthemblack" />
+</div>
+
+---
+
+### 🌐 **FIND ME IN THE DARK**
+
+<div align="center">
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/enthemblack)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enthemblack)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enthemblack)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://enthemblack.tech)
+  [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/enthemblack)
+  
+</div>
+
+---
+
+### 📈 **VISITOR COUNTER + BADGES**
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=enthemblack&label=⚡+VISITORS&color=00ff00&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/enthemblack?label=🔪+FOLLOWERS&style=for-the-badge&color=ff00ff)
+  ![Stars](https://img.shields.io/github/stars/enthemblack?label=💀+STARS&style=for-the-badge&color=00ff00)
+  
+</div>
+
+---
+
+### 🧪 **TERMINAL ASCII ART**
+
+```bash
+┌──(enthemblack@kali)-[~]
+└─$ ./hacker_status.sh
+
+    ╔══════════════════════════════════════════╗
+    ║   STATUS: ACTIVE                         ║
+    ║   MODE: ADVANCED HACKING + DEV           ║
+    ║   TARGET: BLACK HAT ASIA → USA           ║
+    ║   SKILL: OSINT ▰▰▰▰▰▰▰▰▰▰ 100%           ║
+    ║   SKILL: DEV   ▰▰▰▰▰▰▰▰▰▱  90%           ║
+    ║   SKILL: BUGS  ▰▰▰▰▰▰▰▰▰▰ 100%           ║
+    ╚══════════════════════════════════════════╝
+
+┌──(enthemblack@kali)-[~]
+└─$ echo "HACK THE PLANET 🌍"
+HACK THE PLANET 🌍
